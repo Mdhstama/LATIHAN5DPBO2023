@@ -13,16 +13,20 @@ Terdapat 4 *button* yang tersedia yaitu *ADD* untuk menambahkan data ke dalam ta
 **Hasil Program**
 
 - Input
+- 
 ![input](https://user-images.githubusercontent.com/99590350/226685927-73e2c771-46d5-4ed3-84d8-c177128fa024.png)
 
 - Update
+- 
 ![update](https://user-images.githubusercontent.com/99590350/226685970-fb8a8aa7-b04e-45e5-9080-aaf10caa6faa.png)
 
 - NO Delete
+- 
 ![delete1](https://user-images.githubusercontent.com/99590350/226686014-67854a63-9204-4c80-9a09-1bb840156141.png)
 ![delete2](https://user-images.githubusercontent.com/99590350/226686068-7b470012-475f-4195-90d0-866ea6fd3531.png)
 
 - YES Delete
+- 
 ![delete1](https://user-images.githubusercontent.com/99590350/226686114-57494948-9d4f-4956-aa77-6a5f4f82f6de.png)
 ![delete3](https://user-images.githubusercontent.com/99590350/226686152-cf327f8b-e25f-4c18-879b-5eca502fc474.png)
 
